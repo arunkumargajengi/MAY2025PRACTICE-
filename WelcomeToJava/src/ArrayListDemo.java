@@ -1,0 +1,8 @@
+import java.util.ArrayList;
+
+public class ArrayListDemo {
+	public static void main(String[]args) {
+	ArrayList arrayListDemo = new ArrayList();
+	arrayListDemo.add("welcome to java");
+}
+}
